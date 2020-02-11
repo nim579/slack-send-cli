@@ -1,0 +1,36 @@
+{
+  "name": "slack-send-cli",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "node-srv": "./bin/node-srv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nim579/slack-send-cli.git"
+  },
+  "keywords": [
+    "slack",
+    "webhook",
+    "cli",
+    "api",
+    "alerts"
+  ],
+  "author": "Nick Iv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nim579/slack-send-cli/issues"
+  },
+  "homepage": "https://github.com/nim579/slack-send-cli#readme",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "got": "^10.5.5"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
