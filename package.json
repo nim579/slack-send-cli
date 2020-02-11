@@ -1,6 +1,6 @@
 {
   "name": "slack-send-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slack cli sending messages by webhook",
   "main": "index.js",
   "scripts": {
