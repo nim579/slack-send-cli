@@ -1,4 +1,4 @@
-# Slack send CLI
+# Slack CLI sending messages by webhook
 
 ## Install
 

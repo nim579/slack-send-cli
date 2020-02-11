@@ -1,7 +1,7 @@
 {
   "name": "slack-send-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Slack cli sending messages by webhook",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
