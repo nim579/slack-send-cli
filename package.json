@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "node-srv": "./bin/node-srv"
+    "slack-send": "./bin/slack-send"
   },
   "repository": {
     "type": "git",
