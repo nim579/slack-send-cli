@@ -28,7 +28,7 @@
   "homepage": "https://github.com/nim579/slack-send-cli#readme",
   "dependencies": {
     "commander": "^4.1.1",
-    "got": "^10.5.5"
+    "got": "^11.8.5"
   },
   "engines": {
     "node": ">=10"
